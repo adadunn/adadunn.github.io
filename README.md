@@ -1,4 +1,3 @@
-# adadunn.github.io
 
 # Data Analyst
 ### Education
